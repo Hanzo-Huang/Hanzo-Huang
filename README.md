@@ -38,6 +38,6 @@ I am a **Senior Year Student** at **Dalian Maritime University**, specializing i
 
 ### 📊 Coding Activity
 <div align="center">
-  <img src="https://github-readme-stats-kappa-eight-47.vercel.app/api?username=Hanzo-Huang&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats-kappa-eight-47.vercel.app/api/top-langs/?username=Hanzo-Huang&layout=compact&theme=dark&hide_border=true" height="160" />
+  <img src="https://github-readme-stats-six-green-22.vercel.app/api?username=Hanzo-Huang&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
+  <img src="https://github-readme-stats-six-green-22.vercel.app/api/top-langs/?username=Hanzo-Huang&layout=compact&theme=dark&hide_border=true" height="160" />
 </div>
