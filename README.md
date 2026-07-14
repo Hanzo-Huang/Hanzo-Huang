@@ -1,43 +1,103 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Engineering%20Student%20&fontSize=70&fontColor=ffffff" width="100%"/>
 
-  # Hi there, I'm Hanzo Huang! 🎓
-  ### 🚀 Senior Student | Embedded Systems | Linux Enthusiast
-  
-  <p>
-    <i>"Bridging the gap between bare-metal hardware and cloud services."</i>
-  </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Hanzo%20Huang&fontSize=65&fontColor=ffffff"/>
 
+# 👋 Hi, I'm Hanzo Huang
+
+### AI Sensing Application Engineer @ Seeed Studio
+
+*Building AI that runs on the edge.*
+
+<p>
   <a href="mailto:hanzo.huang.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+
+  <a href="https://www.linkedin.com/in/wenzhuo-huang-7412413a1/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://www.reddit.com/user/HanzoHuang/">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
+  </a>
+</p>
+
 </div>
 
 ---
 
-### 👨‍💻 About Me
-I am a **Senior Year Student** at **Dalian Maritime University**, specializing in Embedded Systems and IoT. I am passionate about understanding how computers work at a low level, from the microcontroller registers up to the Linux kernel.
+## 🚀 About Me
 
-- 🎓 **Education:** B.S. in Electronic Information Science and Technology (Expected June 2026)
-- 🔭 **Current Focus:** Building my homelab and mastering **STM32/ESP32** firmware.
-- 🌱 **Learning:** Real-Time Operating Systems (RTOS) and Device Drivers.
-- 💼 **Goal:** Looking for entry-level opportunities in **Firmware Engineering** or **Embedded Linux**.
+I'm an **AI Sensing Application Engineer at Seeed Studio**, focused on bringing AI from research into real-world embedded devices.
+
+My work spans the complete edge AI stack—from embedded hardware and Linux systems to AI deployment, computer vision, LLMs, robotics, and cloud integration.
+
+I enjoy building open-source projects, writing technical documentation, and exploring new AI hardware platforms.
+
+- 🤖 Building AI applications for edge devices
+- 🧠 Deploying LLMs on embedded platforms
+- 📷 Computer Vision & AI Sensing
+- 🐧 Embedded Linux & System Integration
+- ☁️ Cloud + Edge AI
+- 📖 Creating technical tutorials and demos for developers
+- 🌍 Open-source contributor
 
 ---
 
-### 🛠️ Technical Skills
-*My toolkit focuses on system-level programming and server management.*
+## 💻 Tech Stack
 
 | Category | Technologies |
-| :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c) ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c%2B%2B) ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash) |
-| **Hardware** | ![STM32](https://img.shields.io/badge/-STM32-blue?style=flat-square&logo=stm32) ![ESP32](https://img.shields.io/badge/-ESP32-red?style=flat-square&logo=espressif) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry%20Pi) |
-| **OS & Tools** | ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git) |
+|-----------|--------------|
+| **Languages** | C • C++ • Python • Bash • JavaScript |
+| **AI Frameworks** | PyTorch • ONNX Runtime • TensorFlow Lite • OpenCV • Ultralytics YOLO |
+| **Edge AI** | NVIDIA Jetson • Raspberry Pi • Rockchip RK3588/RK3576 • ESP32 • STM32 |
+| **Linux & DevOps** | Ubuntu • Docker • Git • GitHub Actions • SSH |
+| **IoT** | Home Assistant • MQTT • Node-RED |
+| **Cloud** | Azure • REST APIs • GitHub |
 
 ---
 
-### 📊 Coding Activity
+## 🔬 Current Interests
+
+- Edge AI
+- Computer Vision
+- Embedded Linux
+- AI Cameras
+- AI Agents
+- Local LLM Deployment
+- Robotics
+- Home Automation
+- RAG
+- Multimodal AI
+
+---
+
+## 📂 What You'll Find Here
+
+- 🤖 AI & Computer Vision Projects
+- 📷 Edge AI Demos
+- 🐧 Embedded Linux Development
+- 🔌 Hardware Tutorials
+- 📖 Technical Documentation
+- 🏠 Home Assistant Integrations
+- 🧠 LLM Deployment Examples
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats-six-green-22.vercel.app/api?username=Hanzo-Huang&show_icons=true&theme=dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats-six-green-22.vercel.app/api/top-langs/?username=Hanzo-Huang&layout=compact&theme=dark&hide_border=true" height="160" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Hanzo-Huang&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hanzo-Huang&layout=compact&theme=github_dark&hide_border=true"/>
+
 </div>
+
+---
+
+## 🌐 Connect With Me
+
+- 💼 **LinkedIn:** https://www.linkedin.com/in/wenzhuo-huang-7412413a1/
+- 🧡 **Reddit:** https://www.reddit.com/user/HanzoHuang/
+- 📧 **Email:** hanzo.huang.me@gmail.com
