@@ -49,11 +49,9 @@ I enjoy building open-source projects, writing technical documentation, and expl
 | Category | Technologies |
 |-----------|--------------|
 | **Languages** | C • C++ • Python • Bash • JavaScript |
-| **AI Frameworks** | PyTorch • ONNX Runtime • TensorFlow Lite • OpenCV • Ultralytics YOLO |
-| **Edge AI** | NVIDIA Jetson • Raspberry Pi • Rockchip RK3588/RK3576 • ESP32 • STM32 |
-| **Linux & DevOps** | Ubuntu • Docker • Git • GitHub Actions • SSH |
-| **IoT** | Home Assistant • MQTT • Node-RED |
-| **Cloud** | Azure • REST APIs • GitHub |
+| **AI Frameworks** | ONNX Runtime • RKNN • Ultralytics YOLO |
+| **Edge AI** | Raspberry Pi • Rockchip RK3588/RK3576 • ESP32 • STM32 |
+| **IoT** | Home Assistant • MQTT|
 
 ---
 
@@ -62,13 +60,9 @@ I enjoy building open-source projects, writing technical documentation, and expl
 - Edge AI
 - Computer Vision
 - Embedded Linux
-- AI Cameras
 - AI Agents
 - Local LLM Deployment
-- Robotics
 - Home Automation
-- RAG
-- Multimodal AI
 
 ---
 
