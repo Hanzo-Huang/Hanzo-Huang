@@ -93,5 +93,5 @@ I enjoy building open-source projects, writing technical documentation, and expl
 ## 🌐 Connect With Me
 
 - 💼 **LinkedIn:** https://www.linkedin.com/in/wenzhuo-huang-7412413a1/
-- 🧡 **Reddit:** https://www.reddit.com/user/HanzoHuang/
-- 📧 **Email:** hanzo.huang.me@gmail.com
+- 🧡 **Reddit:** https://www.reddit.com/user/csgoatniko/
+- 📧 **Email:** hanzo.huang.dev@gmail.com
